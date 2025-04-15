@@ -4,12 +4,4 @@
     <loc>https://daraeinaser.ir/</loc>
     <priority>1.00</priority>
   </url>
-  <url>
-    <loc>https://daraeinaser.ir/about.html</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://daraeinaser.ir/contact.html</loc>
-    <priority>0.80</priority>
-  </url>
 </urlset>
